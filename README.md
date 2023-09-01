@@ -7,6 +7,8 @@
 - Feature Extraction
 https://github.com/Utkarsh-Deshmukh/Fingerprint-Feature-Extraction/tree/master
 
+https://github.com/cuevas1208/fingerprint_recognition (#1)
+
 - Compare Two Fingerprints
 https://github.com/ivonajdenkoska/fingerprint-recognition/blob/master/src/fingerprint-recognition.ipynb
 
