@@ -1,3 +1,7 @@
+## Coming SOON!
+Work in Progress :D
+
+
 - Pattern Recognition (ridges, loops, etc)
 - Similarity Scores
 - Fingerprint Database Search
